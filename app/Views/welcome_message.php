@@ -217,8 +217,8 @@
             <li class="menu-item hidden"><a href="https://codeigniter.com/user_guide/" target="_blank">Docs</a>
             </li>
             <li class="menu-item hidden"><a href="https://forum.codeigniter.com/" target="_blank">Community</a></li>
-            <li class="menu-item hidden"><a
-                    href="https://codeigniter.com/contribute" target="_blank">Contribute</a>
+            <li class="menu-item hidden"><a href="https://codeigniter.com/contribute" target="_blank">Contribute</a>
+            <li class="menu-item hidden"><a href="../logout" target="_blank">Logout</a>
             </li>
         </ul>
     </div>
